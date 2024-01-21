@@ -53,6 +53,7 @@
   height: 40px;
   width: 66px;
   margin-right: 10px;
+  cursor: pointer;
 }
 .search {
   height: 25px;
@@ -63,6 +64,7 @@
   border-radius: 50%;
   height: 40px;
   width: 40px;
+  cursor: pointer;
 }
 .voice-search-icon {
   height: 25px;
@@ -76,6 +78,7 @@
 }
 .upload, .youtube-apps, .notifications {
   width: 24px;
+  cursor: pointer;
 }
 .notification-container {
   position: relative;
